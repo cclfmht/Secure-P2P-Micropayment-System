@@ -1,5 +1,5 @@
 # Secure P2P Micropayment System
-This is a P2P (person-to-person) micropayment system that supports secure message transmission.
+This is a P2P micropayment system that supports secure message transmission.
 
 ## Overview
 - [Secure P2P Micropayment System](#secure-p2p-micropayment-system)
